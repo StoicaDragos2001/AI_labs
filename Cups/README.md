@@ -1,4 +1,4 @@
-# Problem: We have two containers of capacity m liters and n liters respectively and an unlimited amount of water. Determine a sequence of filling the containers and pouring from one container into the other (until it is full) or on the ground, so that k liters remain in one of the containers. We have no other method of measuring a quantity of water.
+## Problem: We have two containers of capacity m liters and n liters respectively and an unlimited amount of water. Determine a sequence of filling the containers and pouring from one container into the other (until it is full) or on the ground, so that k liters remain in one of the containers. We have no other method of measuring a quantity of water.
 
 Requirements:
 
