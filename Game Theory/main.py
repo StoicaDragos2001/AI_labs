@@ -70,3 +70,4 @@ if __name__ == '__main__':
     dominant_strategy(0, dict_A)
     dominant_strategy(1, dict_B)
     nash_equilibrum(dict_A, dict_B)
+    
