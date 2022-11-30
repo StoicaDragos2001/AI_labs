@@ -50,7 +50,7 @@ def nash_equilibrum(dict_player_A, dict_player_B):
         if i[1] in dict_max_moves_rows_B and dict_player_B[i] == dict_max_moves_rows_B[i[1]]:
             list_max_states_B.append(i)
     solution = set(list_max_states_A).intersection(set(list_max_states_B))
-    if len(solution) > 0:
+    if len(solution) == 1:
         print(solution, " represents a Nash equilibrium")
     else:
         print("Nash equilibrium doesn't exist")
